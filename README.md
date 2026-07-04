@@ -24,6 +24,9 @@ This project analyzes Amazon product data using Python for data cleaning and exp
 
 ## 📂 Files
 
-- Amazon_Product_Analysis.ipynb
-- amazon_cleaned.csv
-- Amazon_Dashboard.pbix
+## 📁 Project Files
+
+- [📓 Jupyter Notebook](amazon_product_analytics.ipynb)
+- [📊 Cleaned Dataset](amazon_cleaned.csv)
+- [📈 Power BI Dashboard](amazon_dashboard.pbix)
+- [🖼️ Dashboard Screenshot](Dashboard.png)
