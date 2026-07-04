@@ -39,7 +39,7 @@ Business Insights
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🔍 Data Cleaning
 
