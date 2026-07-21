@@ -43,10 +43,10 @@ Business Insights
 ## 📊 Dashboard Preview
 
 ### Page 1 — Overview
-![Dashboard Overview](dashboard_pg1.png)
+![Dashboard Overview](Dashboard_pg1.png)
 
 ### Page 2 — Discount vs. Rating Analysis
-![Discount vs Rating Analysis](dashboard_pg2.png)
+![Discount vs Rating Analysis](Dashboard_pg2.png)
 
 ## 🔍 Data Cleaning
 
@@ -115,5 +115,5 @@ Amazon-Product-Analytics/
 - [📓 Jupyter Notebook](amazon_product_analytics.ipynb)
 - [📊 Cleaned Dataset](amazon_cleaned.csv)
 - [📈 Power BI Dashboard](amazon_dashboard.pbix)
-- [🖼️ Dashboard Screenshot page 1](dashboard_pg1.png)
-- [🖼️ Dashboard Screenshot page 2](dashboard_pg2.png)
+- [🖼️ Dashboard Screenshot page 1](Dashboard_pg1.png)
+- [🖼️ Dashboard Screenshot page 2](Dashboard_pg2.png)
